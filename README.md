@@ -1038,7 +1038,7 @@ https://react-icons.github.io/react-icons/
 
 # Considerações Finais
 
-Estas foram as minhas anotações no meu processo de aprendizagem das principais ferramentas do React. As anotações foram baseadas no <a href="">Curso de React</a> do <a href="">Matheus Battisti</a> que se encontra gratuitamente no YouTube. As anotações é de minha autoria e baseadas na minha interpretação e entendimento do conteúdo apresentado no curso, com o intuito de revisar quando necessário e ajudar desenvolvedores que também estejam aprendendo sobre a tecnologia. Peço encarecidamente o auxílio do leitor caso haja algum erro de digitação ou explicação de algum conceito; em caso de qualquer anomalia na anotação, peço que seja feito um pull request corrigindo a respectiva parte. 
+Estas foram as minhas anotações no meu processo de aprendizagem das principais ferramentas do React. As anotações foram baseadas no <a href="https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO">Curso de React</a> do <a href="https://www.youtube.com/@MatheusBattisti">Matheus Battisti</a> que se encontra gratuitamente no YouTube. As anotações é de minha autoria e baseadas na minha interpretação e entendimento do conteúdo apresentado no curso, com o intuito de revisar quando necessário e ajudar desenvolvedores que também estejam aprendendo sobre a tecnologia. Peço encarecidamente o auxílio do leitor caso haja algum erro de digitação ou explicação de algum conceito; em caso de qualquer anomalia na anotação, peço que seja feito um pull request corrigindo a respectiva parte. 
 
 Espero ter ajudado sintetizando algumas das principais ideias do React. Muito obrigado pela leitura do artigo. Se possível, por favor, dê uma estrelinha no repositório e siga meu perfil no github.✨
 
