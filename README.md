@@ -2,7 +2,7 @@
 
 ## O que é?
 
-O React é uma framework do JavaScript, utilizado para a criação de páginas web. É uma das frameworks mais populares no mercado de JavaScript. Utiliza de uma metodologia moderna de criação de componentes para a manipulação do DOM. O React funciona em conjunto com o Node e utilizando os módulos do NPM, então para a sua utilização, precisamos ter estas ferramentas instaladas na máquina. Podemos verificar a instalação destas ferramentas na máquina através dos seguintes comandos executados no terminal:
+O React é um framework do JavaScript, utilizado para a criação de páginas web. É uma das frameworks mais populares no mercado de JavaScript. Utiliza de uma metodologia moderna de criação de componentes para a manipulação do DOM. O React funciona em conjunto com o Node e utilizando os módulos do NPM, então para a sua utilização, precisamos ter estas ferramentas instaladas na máquina. Podemos verificar a instalação destas ferramentas na máquina através dos seguintes comandos executados no terminal:
 
 ### NodeJS
 
