@@ -12,6 +12,12 @@ O React é um framework do JavaScript, utilizado para a criação de páginas we
 
 <img alt="versão do NPM" src="./images/Screenshot_271.png"/>
 
+### Download
+
+Caso os comandos acima não tenham retornado a versão do seu NPM ou NodeJS, isso significa que você não os possui instalados na sua máquina. <a href="https://nodejs.org/en">Clique aqui</a> e você será encaminhado para o link de download do NodeJS que quando instalado, instala também a versão mais recente do NPM.
+
+> Recomendo que baixe a versão LTS, recomendada para a maioria dos usuários.
+
 ## Utilização
 
 Para criar uma ambiente de desenvolvimento em React, utilizamos do comando `npx create-react-app nome-do-projeto` como recomenda a própria documentação. Desta forma, será criada uma pasta do nosso projeto no nosso ambiente de desenvolvimento. Lembrando que é necessário para a execução deste comando ter instalado na máquina a versão mais recente do NPM.
