@@ -77,7 +77,7 @@ function App() {
 }
 ```
 
-> O retorno de JSX nos componentes não permite o retorno de vários elementos no mesmo nível, ou seja, é preciso que todo o conteúdo esteja englobado de uma tag, geralmente uma `<div>` a qual chamaremos de *wrapper* para que não seja apontado um erro.
+> O retorno de JSX nos componentes não permite o retorno de vários elementos no mesmo nível, ou seja, é preciso que todo o conteúdo esteja englobado em uma tag, geralmente uma `<div>` a qual chamaremos de *wrapper* para que não seja apontado um erro.
 
 ## Classes no JSX
 
